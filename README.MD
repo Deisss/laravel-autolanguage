@@ -36,7 +36,7 @@ and aliases:
         
         // (...)
         
-        Deisss\Autolanguage\Facades\Language::class,
+        'Language' => Deisss\Autolanguage\Facades\Language::class,
     ]
 ]
 ```
